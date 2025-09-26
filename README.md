@@ -1,4 +1,4 @@
-Of course\! Here is a comprehensive `README.md` file for your GitHub repository, generated based on the content of your Jupyter Notebook.
+
 
 -----
 
@@ -68,8 +68,8 @@ The final 1D projections for the training and test sets show a clear separation 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/chandresh8200/PCA_and_LDA_on_Fischer_faces_Dataset.git
+    cd PCA_and_LDA_on_Fischer_faces_Dataset
     ```
 
 2.  **Install dependencies:**
